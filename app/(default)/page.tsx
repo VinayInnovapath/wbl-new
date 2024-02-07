@@ -1,5 +1,5 @@
 export const metadata = {
-  title: 'Home - Open PRO',
+  title: 'Whitebox Learning',
   description: 'Page description',
 }
 
