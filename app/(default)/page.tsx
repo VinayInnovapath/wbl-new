@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'Home - Open PRO',
-  description: 'Page description',
+  title: 'Whitebox Learning',
+  description: '',
 }
 
 import Hero from '@/components/hero'
@@ -17,7 +17,7 @@ export default function Home() {
       <Features />
       <Zigzag />
       <Testimonials />
-      {/* <Newsletter /> */}
+      <Newsletter />
       
     </>
   )
